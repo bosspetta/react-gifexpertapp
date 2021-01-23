@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGrid /> Debe mostrarse correctamente 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+    One Punch
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    <img
+      alt="Icono de carga"
+      src="https://www.ipgvip.com/wp-content/themes/ipg/assets/images/loading-gif.gif"
+    />
+    <br />
+    Cargando…
+  </p>
+  <li
+    className="card-grid"
+  />
+</Fragment>
+`;
